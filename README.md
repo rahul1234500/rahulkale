@@ -1,5 +1,4 @@
-
-<img width="300px" height="200px" alt="PhotoshopExtension_Image-min" src="https://github.com/user-attachments/assets/39cc54d5-2d7f-4997-b299-ada9513354ad" />
+<img width="300px" height="200px" alt="Developer Illustration" src="https://github.com/user-attachments/assets/39cc54d5-2d7f-4997-b299-ada9513354ad" />
 
 # Hi 👋 I'm Rahul Kale
 
@@ -11,6 +10,10 @@
 ## 💻 Tech Stack
 
 <p>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  </a>
+
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
@@ -44,6 +47,13 @@
 - 📰 **News App** – React + News API  
 - 👨‍🎓 **Student Management System** – Spring Boot + MongoDB  
 - 🏢 **Employee Management System** – Full Stack Application  
+
+---
+
+## 🌐 Portfolio
+
+🚀 **Live Portfolio:**  
+👉 https://rahul-kale-full-stack-resume.netlify.app/
 
 ---
 
