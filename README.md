@@ -1,4 +1,13 @@
-<img width="300px" height="200px" alt="Developer Illustration" src="https://github.com/user-attachments/assets/39cc54d5-2d7f-4997-b299-ada9513354ad" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/39cc54d5-2d7f-4997-b299-ada9513354ad"
+    alt="Developer Illustration"
+    width="180"
+    height="180"
+    style="border-radius: 50%;"
+  />
+</p>
+
 
 # Hi 👋 I'm Rahul Kale
 
