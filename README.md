@@ -4,7 +4,7 @@
     alt="Developer Illustration"
     width="180"
     height="180"
-    style="border-radius: 50%;"
+    style="border-radius: 100px;"
   />
 </p>
 
